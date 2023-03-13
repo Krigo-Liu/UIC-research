@@ -1,5 +1,3 @@
 # UIC-research
 
-This is the second time to test git.
-
-This is test git in obsidian.
+-[x] Git in Obsidain successed.
