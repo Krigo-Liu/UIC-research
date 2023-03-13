@@ -1,3 +1,3 @@
 # UIC-research
 
--[x] Git in Obsidain successed.
+- [x] Git in Obsidain successed.
