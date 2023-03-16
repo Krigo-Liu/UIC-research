@@ -28,9 +28,21 @@
                 "file": "WENO/WENO_review.pdf"
               }
             }
+          },
+          {
+            "id": "cab19c020242cf1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "科研规划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "科研规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "科研规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "科研规划.md"
+              }
             }
           },
           {
@@ -161,9 +177,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2d6a975b7ab924a",
+  "active": "cab19c020242cf1a",
   "lastOpenFiles": [
+    "科研规划.pdf",
+    "Pasted image 20230316214231.png",
+    "Pasted image 20230316214157.png",
+    "Pasted image 20230316214154.png",
     "WENO/WENO_review.pdf",
+    "科研规划.md",
     "WENO/WENO方法总结中文.pdf",
     "Project  1.md",
     "README.md",
