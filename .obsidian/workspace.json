@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f4319364dc76bbf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "WENO/WENO_review.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +161,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e27b4bdb991bd6c5",
+  "active": "c2d6a975b7ab924a",
   "lastOpenFiles": [
-    "README.md",
     "WENO/WENO_review.pdf",
+    "WENO/WENO方法总结中文.pdf",
+    "Project  1.md",
+    "README.md",
     "未命名.canvas",
     "WENO"
   ]
