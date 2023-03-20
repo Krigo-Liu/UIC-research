@@ -11,8 +11,12 @@
             "id": "ab896da26aca8cff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project/Project  1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fa6a161bb90d7158",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WENO/WENO方法总结中文.pdf",
+                "file": "Project/Project  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WENO/WENO方法总结中文.pdf",
+                "file": "Project/Project  1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WENO/WENO方法总结中文.pdf"
+                "file": "Project/Project  1.md"
               }
             }
           },
@@ -150,16 +155,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc0f717c3ec448aa",
+  "active": "ab896da26aca8cff",
   "lastOpenFiles": [
+    "README.md",
+    "科研规划.md",
     "未命名",
     "Project/Project  1.md",
     "科研规划.pdf",
     "image/WechatIMG43.jpeg",
-    "科研规划.md",
     "image/Pasted image 20230316214231.png",
     "Pasted image 20230316214154.png",
-    "README.md",
     "WENO/WENO_review.pdf",
     "image/Pasted image 20230316214157.png",
     "image",
