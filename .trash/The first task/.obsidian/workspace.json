@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "4467ac0d61ccbc36",
+    "id": "ab350fa14fa08564",
     "type": "split",
     "children": [
       {
-        "id": "16f4b73ec93df709",
+        "id": "494c45ba2dde3733",
         "type": "tabs",
         "children": [
           {
-            "id": "3835e53022f4eefe",
+            "id": "5e26c81375bde4c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一次任务.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8366196d0cc82b51",
+    "id": "b207784b57fe3a99",
     "type": "split",
     "children": [
       {
-        "id": "7b4afb50f0e9ec44",
+        "id": "d23432edaa18b847",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0f717c3ec448aa",
+            "id": "6320d36efffaa089",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "86de3a5fa995b265",
+            "id": "b9ad3cee02247a2f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "4331bda788ab675a",
+            "id": "424b4fddb2da6e4d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "fa6a161bb90d7158",
+    "id": "447ab0c16ebf4d58",
     "type": "split",
     "children": [
       {
-        "id": "e4781619e4d5ac2c",
+        "id": "d556d8fb82de92f1",
         "type": "tabs",
         "children": [
           {
-            "id": "d15331582708217e",
+            "id": "aa798a2ef0a4bd3b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一次任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "7320b7ac27b7f40c",
+            "id": "f10a1911b8b93aad",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一次任务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fba0e15836cd2a26",
+            "id": "a7fbc2719bffc594",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,25 +114,14 @@
             }
           },
           {
-            "id": "f020cfd3d9aa8926",
+            "id": "98cdb548b187a84e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "第一次任务.md"
-              }
-            }
-          },
-          {
-            "id": "c2d6a975b7ab924a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,39 +138,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3835e53022f4eefe",
-  "lastOpenFiles": [
-    "Questions.md",
-    "第一次任务.md",
-    "image/Pasted image 20230325170601.png",
-    "image/Pasted image 20230325170546.png",
-    "image/Pasted image 20230325170540.png",
-    "image/Pasted image 20230325161904.png",
-    "image/Pasted image 20230325161815.png",
-    "image/Pasted image 20230325161749.png",
-    "Project/Project  1.md",
-    "科研规划.md",
-    "README.md",
-    "未命名 1",
-    "未命名",
-    "未命名.md",
-    "The first task/未命名.md",
-    "The first task",
-    "教程/怎么输出Latex.pdf",
-    "image/Pasted image 20230324170706.png",
-    "image/Pasted image 20230324170657.png",
-    "image/Pasted image 20230324170600.png",
-    "教程/M1Mac配置VScode调试Fortran.pdf",
-    "教程/macOS 配置 LaTeX.pdf",
-    "教程/Ob教程-jly特供版.md",
-    "image/Pasted image 20230323203909.png",
-    "未命名.canvas",
-    "科研规划.pdf",
-    "共享/Complex Note 1.md",
-    "共享/未命名.md",
-    "共享",
-    "WENO/WENO_review.pdf",
-    "image",
-    "Project  1.md"
-  ]
+  "active": "5e26c81375bde4c9",
+  "lastOpenFiles": []
 }

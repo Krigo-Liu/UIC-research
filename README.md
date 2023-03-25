@@ -1,8 +1,7 @@
-# UIC-research
+# UIC科研 
 
-- [x] Git in Obsidain successed.
-- [ ] Combine with the zotero.
+## 代办事项
 
-## Emergency things
+- [ ] Task-1的文档编辑
 
-- [ ] Project - 1
+ 

@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f0cca55bf05e9cf4",
+        "id": "a824283ab790cd89",
         "type": "tabs",
         "children": [
           {
-            "id": "d49282ba721a7d95",
+            "id": "2f9be7fe3ba21477",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "WENO/WENO方法总结中文.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "WENO/WENO方法总结中文.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "WENO/WENO方法总结中文.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "WENO/WENO方法总结中文.pdf"
-          }
+          "state": {}
         }
       }
     ],
@@ -129,6 +123,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d49282ba721a7d95",
-  "lastOpenFiles": []
+  "active": "2f9be7fe3ba21477",
+  "lastOpenFiles": [
+    "image/Pasted image 20230316214231.png",
+    "image/WechatIMG43.jpeg",
+    "科研规划.md",
+    "Project/Project  1.md",
+    "image/Pasted image 20230316214157.png",
+    "WENO/WENO方法总结中文.pdf"
+  ]
 }
