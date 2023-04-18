@@ -5,8 +5,11 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 82
   },
   "attachmentFolderPath": "image",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

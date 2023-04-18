@@ -1,0 +1,18 @@
+{
+  "minimal-style@@h1-size": "1.8em",
+  "minimal-style@@h2-size": "1.6em",
+  "minimal-style@@h3-size": "1.40em",
+  "name": "Minimal",
+  "version": "6.3.2",
+  "minAppVersion": "1.1.0",
+  "author": "@kepano",
+  "authorUrl": "https://twitter.com/kepano",
+  "fundingUrl": "https://www.buymeacoffee.com/kepano",
+  "minimal-style@@h1-color@@light": "#ED1B1B",
+  "minimal-style@@h2-color@@light": "#E96924",
+  "minimal-style@@h3-color@@light": "#B6D64C",
+  "minimal-style@@h4-size": "1.2em",
+  "minimal-style@@h4-color@@light": "#09BB3D",
+  "minimal-style@@h5-size": "1.2em",
+  "minimal-style@@h5-color@@light": "#00A4D2"
+}
